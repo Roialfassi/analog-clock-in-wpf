@@ -1,0 +1,17 @@
+C:\Users\roial\Documents\Work\analog-clock-in-wpf\bin\Debug\ClockDemo.exe.config
+C:\Users\roial\Documents\Work\analog-clock-in-wpf\bin\Debug\ClockDemo.exe
+C:\Users\roial\Documents\Work\analog-clock-in-wpf\bin\Debug\ClockDemo.pdb
+C:\Users\roial\Documents\Work\analog-clock-in-wpf\bin\Debug\Arction.WPF.Gauges.dll
+C:\Users\roial\Documents\Work\analog-clock-in-wpf\obj\Debug\ClockDemo.csprojAssemblyReference.cache
+C:\Users\roial\Documents\Work\analog-clock-in-wpf\obj\Debug\MainWindow.g.cs
+C:\Users\roial\Documents\Work\analog-clock-in-wpf\obj\Debug\App.g.cs
+C:\Users\roial\Documents\Work\analog-clock-in-wpf\obj\Debug\ClockDemo_MarkupCompile.cache
+C:\Users\roial\Documents\Work\analog-clock-in-wpf\obj\Debug\ClockDemo_MarkupCompile.lref
+C:\Users\roial\Documents\Work\analog-clock-in-wpf\obj\Debug\MainWindow.baml
+C:\Users\roial\Documents\Work\analog-clock-in-wpf\obj\Debug\ClockDemo.g.resources
+C:\Users\roial\Documents\Work\analog-clock-in-wpf\obj\Debug\ClockDemo.Properties.Resources.resources
+C:\Users\roial\Documents\Work\analog-clock-in-wpf\obj\Debug\ClockDemo.csproj.GenerateResource.cache
+C:\Users\roial\Documents\Work\analog-clock-in-wpf\obj\Debug\ClockDemo.csproj.CoreCompileInputs.cache
+C:\Users\roial\Documents\Work\analog-clock-in-wpf\obj\Debug\ClockDemo.csproj.CopyComplete
+C:\Users\roial\Documents\Work\analog-clock-in-wpf\obj\Debug\ClockDemo.exe
+C:\Users\roial\Documents\Work\analog-clock-in-wpf\obj\Debug\ClockDemo.pdb

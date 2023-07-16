@@ -10,6 +10,7 @@
     <Grid>
 
         <agc:Gauge Name="Clock1"/>
+        <TextBlock x:Name="AngleDisplay" HorizontalAlignment="Left" Margin="66,10,0,0" TextWrapping="Wrap" Text="Degrees Here" VerticalAlignment="Top" Height="20" Width="81"/>
 
     </Grid>
 </Window>
