@@ -18,7 +18,7 @@ namespace ClockDemo
             InitializeComponent();
 
             //window title
-            this.Title = "WPF Clock Demo";
+            this.Title = "Dragging Clock";
 
             //create the clock
             CreateClock();
